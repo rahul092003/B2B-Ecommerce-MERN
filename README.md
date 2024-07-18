@@ -1,0 +1,1 @@
+This project is a comprehensive B2B e-commerce platform designed specifically for industrial, safety, hardware, electrical, and agricultural products. Built using the MERN stack, it includes both a customer-facing website and an administrative interface for managing products and orders.
